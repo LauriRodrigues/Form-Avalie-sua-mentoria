@@ -7,13 +7,13 @@
 </h4>
 
 <div align="center">
-  <img alt="GitHub language count" src="">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/LauriRodrigues/Form-Avalie-sua-mentoria?style=plastic">
 
-  <img alt="GitHub repo size" src="">
+  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/LauriRodrigues/Form-Avalie-sua-mentoria?style=plastic">
   
-  <img alt="GitHub last commit" src="">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/LauriRodrigues/Form-Avalie-sua-mentoria?color=1280bf&style=plastic">
   
-  <a href=""> ▶️ Visualizar Deploy </a>
+  <a href="https://laurirodrigues.github.io/Form-Avalie-sua-mentoria/"> ▶️ Visualizar Deploy </a>
 </div>
 
 <h2 align=left> 💻 Sobre o projeto </h3>
